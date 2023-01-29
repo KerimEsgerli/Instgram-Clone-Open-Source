@@ -1,5 +1,5 @@
 
-# How To Setup Instgram clone
+# How To Setup Instagram clone
 
 1.Dowland Files
 
