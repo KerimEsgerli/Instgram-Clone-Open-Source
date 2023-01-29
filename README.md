@@ -1,5 +1,5 @@
 
-#How To Setup Instgram clone
+# How To Setup Instgram clone
 
 1.Dowland Files
 
